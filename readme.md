@@ -1,5 +1,5 @@
 # Transfer Learning-based State of Health Estimation for Lithium-ion Battery
-Author: Yuwen Qin, Xin Chen
+Author: Yuwen Qin
 
 ## Background
 Due to the continuous improvements in their cycling efficiencies and energy and power densities, as well as the reduction in their costs, lithium-ion (Li-ion) rechargeable batteries have been increasingly used as energy storage devices in various applications such as cell phones, laptops, hybrid and electric vehicles, and grid-scale energy storage systems. In such applications, it is of great importance to be able to online estimate the state of health (SOH) of a battery cell for ensuring its safety and reliability when operating in the field. Accurately estimating the capacity of a cell can potentially assist in detecting a faulty condition in the cell and then enable its failure prevention through timely maintenance actions.
